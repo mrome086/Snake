@@ -1,0 +1,44 @@
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\bin\Debug\PA5 Draft.exe.config
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\bin\Debug\PA5 Draft.exe
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\bin\Debug\PA5 Draft.pdb
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csprojAssemblyReference.cache
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\obj\Debug\PA5_Draft.MainForm.resources
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\obj\Debug\PA5_Draft.Properties.Resources.resources
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csproj.GenerateResource.cache
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csproj.CoreCompileInputs.cache
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.exe
+C:\Users\drbor\source\repos\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.pdb
+C:\Users\drbor\Downloads\PA5 Draft\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csproj.AssemblyReference.cache
+C:\Users\drbor\Downloads\PA5 Draft\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.exe
+C:\Users\drbor\Downloads\PA5 Draft\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.pdb
+C:\Users\drbor\Downloads\PA5 Draft\PA5 Draft\PA5 Draft\bin\Debug\PA5 Draft.exe.config
+C:\Users\drbor\Downloads\PA5 Draft\PA5 Draft\PA5 Draft\bin\Debug\PA5 Draft.exe
+C:\Users\drbor\Downloads\PA5 Draft\PA5 Draft\PA5 Draft\bin\Debug\PA5 Draft.pdb
+C:\Users\drbor\Downloads\PA5 Draft\PA5 Draft\PA5 Draft\obj\Debug\PA5_Draft.MainForm.resources
+C:\Users\drbor\Downloads\PA5 Draft\PA5 Draft\PA5 Draft\obj\Debug\PA5_Draft.Properties.Resources.resources
+C:\Users\drbor\Downloads\PA5 Draft\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csproj.GenerateResource.cache
+C:\Users\drbor\Downloads\PA5 Draft\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Advance windows programming\PA5 Draft\PA5 Draft\bin\Debug\PA5 Draft.exe.config
+\\Mac\Home\Desktop\Advance windows programming\PA5 Draft\PA5 Draft\bin\Debug\PA5 Draft.exe
+\\Mac\Home\Desktop\Advance windows programming\PA5 Draft\PA5 Draft\bin\Debug\PA5 Draft.pdb
+\\Mac\Home\Desktop\Advance windows programming\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Advance windows programming\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Advance windows programming\PA5 Draft\PA5 Draft\obj\Debug\PA5_Draft.MainForm.resources
+\\Mac\Home\Desktop\Advance windows programming\PA5 Draft\PA5 Draft\obj\Debug\PA5_Draft.Properties.Resources.resources
+\\Mac\Home\Desktop\Advance windows programming\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Advance windows programming\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Advance windows programming\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.exe
+\\Mac\Home\Desktop\Advance windows programming\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.pdb
+\\Mac\Home\Desktop\Advance windows programming\PA5 Draft\PA5 Draft\obj\Debug\PA5_Draft.Apples.resources
+C:\Users\Michael Romero\Desktop\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csproj.AssemblyReference.cache
+C:\Users\Michael Romero\Desktop\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michael Romero\Desktop\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.exe
+C:\Users\Michael Romero\Desktop\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.pdb
+C:\Users\Michael Romero\Desktop\PA5 Draft\PA5 Draft\bin\Debug\PA5 Draft.exe.config
+C:\Users\Michael Romero\Desktop\PA5 Draft\PA5 Draft\bin\Debug\PA5 Draft.exe
+C:\Users\Michael Romero\Desktop\PA5 Draft\PA5 Draft\bin\Debug\PA5 Draft.pdb
+C:\Users\Michael Romero\Desktop\PA5 Draft\PA5 Draft\obj\Debug\PA5_Draft.Apples.resources
+C:\Users\Michael Romero\Desktop\PA5 Draft\PA5 Draft\obj\Debug\PA5_Draft.MainForm.resources
+C:\Users\Michael Romero\Desktop\PA5 Draft\PA5 Draft\obj\Debug\PA5_Draft.Properties.Resources.resources
+C:\Users\Michael Romero\Desktop\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csproj.GenerateResource.cache
+C:\Users\Michael Romero\Desktop\PA5 Draft\PA5 Draft\obj\Debug\PA5 Draft.csproj.CoreCompileInputs.cache
